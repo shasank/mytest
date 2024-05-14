@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<record_update>
+  <sn_kmf_record_signature>
+    <certificate_alias>31aa00234b02021055e59a19f5584c00</certificate_alias>
+    <document_id>6376c46743020210f604e4f6bab8f2e3</document_id>
+    <field_list>active,collection,order,sys_class_name,client_callable,condition,action_insert,rest_method_text,rest_service_text,script,when</field_list>
+    <is_attachment>false</is_attachment>
+    <purpose>wild_card_purpose</purpose>
+    <signature>Vm8QWtLxwWYyk4bndoLtzDyjPjoq1wgLqQDWehAvPjAk2sgm8Op4G8poCzUYyMzKeg89VVhWJ55ii9279WFwfQlP4LlKwxL+7T7+oKglzcO8XHaPASmDetoOHCs/n9LDoFBJ5XMkz+E6Nxjm5rwrQIps6dteDNUQu1092BzLaKGIu8bxNRGk1N/85fReSUfU767rNvFYEQlBVl5Ygv95HH37qZtqQ9H08RXkTAj5Nnxp2catvH+bBrAjquSsSNXeRiufu8E+WKeNeYw7265L5ZDq5Df9PMUmHTpyo42xjiaAG7tefZlDmFCpRyxBE8xXnNg6m/ehbRETbSFmwhq4hg==</signature>
+    <signature_algorithm>SHA512withRSA</signature_algorithm>
+    <table_name>sys_script</table_name>
+    <validation_params>{"fVersion":"2.0.0"}</validation_params>
+    <signature_timestamp>{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.CodeSigningTimeStampResponse","econtent":{"status":{"code":"GRANTED","infomation":"The time stamp is successfully granted.","failure_message":""},"timestamp_token":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.TimeStampToken","econtent":{"encapsulated_content":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.response.TimeStampContent","econtent":{"version":"v1","serial_number":"20240514174833","message_imprint":{"econtent_type":"com.snc.core.codesigning.timestamp.agents.request.SignatureHashMessageImprint","econtent":{"message_digest":[-71,2,-70,-55,-58,27,-81,-80,-17,110,25,-125,-127,-4,-27,87,25,-119,71,-5,-124,-27,-107,-21,-28,-32,7,-33,51,-25,-77,-128],"hash_algorithm":"SHA3-256"}},"time_stamp":"20240514174833Z","time_accuracy":"040000Z"}},"signer_infos":[{"signature":[96,-84,-13,98,18,-76,34,-82,-77,-68,-75,115,-113,-34,118,49,31,-71,54,68,106,-54,-42,120,8,-3,70,29,-74,-47,-7,73,1,82,12,-67,24,101,11,-76,-75,22,25,-56,112,-9,-122,-31,65,8,119,49,-69,-35,-54,80,78,107,-101,-101,-65,55,19,103,25,79,-120,-32,127,29,107,77,108,109,95,48,104,77,13,23,47,23,92,40,109,-111,-51,-88,3,-71,90,-28,-85,-89,-69,51,111,69,114,27,-118,118,13,-13,-98,112,104,121,-111,121,124,117,-29,-12,40,-77,9,65,-68,-120,-47,81,-83,-119,-65,77,24,-125,41,-90,89,13,31,62,84,-120,-33,100,62,-15,35,54,-121,8,-34,119,87,116,-34,13,122,126,103,-57,-13,-125,-79,-41,-74,-111,-82,-117,-92,-61,-19,93,-51,20,-11,13,-96,-7,-95,44,80,47,69,-22,-121,-66,32,-24,-4,30,105,-3,42,-76,13,1,31,38,-40,-87,-88,-34,19,7,-1,17,122,14,-61,21,-105,-13,-27,26,38,-112,-40,-109,7,-53,26,6,61,102,-105,40,91,-22,-35,-57,-125,78,66,92,19,-62,-123,-77,14,-116,-78,-56,-54,-67,-83,57,14,104,-26,-53,46,-124,119,33,94,-38,43,2,-75,-2,-108,-111],"signature_algorithm_identifier":"SHA512withRSA","certificate_identifier":"code_signing_key_31aa00234b02021055e59a19f5584c00"}]}}}}</signature_timestamp>
+    <sys_class_name>sn_kmf_record_signature</sys_class_name>
+    <sys_id>3fdf52a410e04160a8c5b3e18a07b710</sys_id>
+    <sys_name/>
+    <sys_package>1ccadd4ccfd72010ffa1acc9e4cfcd7b</sys_package>
+    <sys_policy>protected</sys_policy>
+    <sys_scope>global</sys_scope>
+    <sys_update_name>sn_kmf_record_signature_3fdf52a410e04160a8c5b3e18a07b710</sys_update_name>
+  </sn_kmf_record_signature>
+</record_update>
