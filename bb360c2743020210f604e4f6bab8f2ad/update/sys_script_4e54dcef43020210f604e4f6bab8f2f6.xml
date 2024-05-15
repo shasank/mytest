@@ -31,6 +31,7 @@
 
 	// Add your code here
 	// br4
+	// new
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e54dcef43020210f604e4f6bab8f2f6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>br4</sys_name>
         <sys_overrides/>
         <sys_package display_value="mytest" source="sn_mytest">bb360c2743020210f604e4f6bab8f2ad</sys_package>
@@ -47,7 +48,7 @@
         <sys_scope display_value="mytest">bb360c2743020210f604e4f6bab8f2ad</sys_scope>
         <sys_update_name>sys_script_4e54dcef43020210f604e4f6bab8f2f6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-14 13:06:43</sys_updated_on>
+        <sys_updated_on>2024-05-15 03:26:14</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
